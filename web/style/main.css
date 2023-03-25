@@ -1,0 +1,36 @@
+table, th, td {
+    border: 1px solid;
+  }
+
+.button {
+    color: black;
+    appearance: auto;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: lightgrey;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: darkgrey;
+}
+
+.description{
+    margin-top: 16px;
+    display: inline-block;
+    width: 160px;
+    text-align: right;
+}
+.delete_choose{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.delete_choose input{
+    padding: 4px 6px;
+    margin-left: 10px;
+}
+.text_red{
+    color: red;
+}

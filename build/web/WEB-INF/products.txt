@@ -1,0 +1,7 @@
+xinchao|mo ta san pham dfsdf|123.0
+thue o newyork|mo ta san pham moi|123.0
+tren 18|mo ta san pham moi|123.0
+123|vua moi them vao|123.0
+tren 18 doi f|mo ta san pham moi|100.0
+tren 18df|mo ta san pham moi|123.0
+da cuoidqae|mo ta san pham moi|12312.0
